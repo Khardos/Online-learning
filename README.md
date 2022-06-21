@@ -24,7 +24,8 @@
 - Data Visualization and Dashboards with Excel and Cognos
 - IBM Data Analyst Capstone Project
 
-## Google Data Analytics Specialization (https://www.coursera.org/professional-certificates/google-data-analytics)
+## Google Data Analytics Specialization
+### https://www.coursera.org/professional-certificates/google-data-analytics
 - 8 courses for potentially more thorough data mindset and learning more about spreadsheets, R, etc.
 
 ## Others: 
