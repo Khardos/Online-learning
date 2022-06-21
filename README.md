@@ -28,6 +28,9 @@
 ### https://www.coursera.org/professional-certificates/google-data-analytics
 - 8 courses for potentially more thorough data mindset and learning more about spreadsheets, R, etc.
 
-## Others: 
-Statistics with Python (U Michigan), Statistics (Stanford), 
-Machine Learning (DeepLearning.ai & Stanford),Deep Learning (DeepLearning.ai), ...
+## Other possible courses (Coursera): 
+- Statistics with Python (U Michigan) 
+- Statistics (Stanford)
+- Machine Learning (DeepLearning.ai & Stanford)
+- Deep Learning (DeepLearning.ai) 
+- ...
