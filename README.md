@@ -33,4 +33,10 @@ https://www.coursera.org/professional-certificates/google-data-analytics
 - Statistics (Stanford)
 - Machine Learning (DeepLearning.ai & Stanford)
 - Deep Learning (DeepLearning.ai) 
+- Harvard CS50?
 - ...
+
+## Other topics to learn/relearn about more separately
+Git, DevOps, Bash (/ command line), Regex \
+AWS, Azure, Google Cloud \
+Power BI, Tableau, Advanced Excel handling
