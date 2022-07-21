@@ -1,6 +1,7 @@
 # My online learning progress
 My learning progress since starting learning data science on 29.5.2022.<br>
-Some example projects can be seen at https://github.com/Khardos/Portfolio
+Some example projects can be seen at https://github.com/Khardos/Portfolio <br>
+Linkedin: https://www.linkedin.com/in/samulikoivu/
 ## Courses in Coursera IBM Data Science specialization 
 https://www.coursera.org/professional-certificates/ibm-data-science
 - [x] Python for Data Science, AI & Development (completed 29.5.-1.6.2022)
