@@ -12,8 +12,8 @@ https://www.coursera.org/professional-certificates/ibm-data-science
 - [x] What is Data Science? (completed 26.-29.6.2022)
 - [x] Tools for Data Science (completed 28.6.-3.7.2022)
 - [x] Data Science Methodology (completed 1.-4.7.2022)
-- [ ] Machine Learning with Python (started 2.7.2022)
-- [ ] Applied Data Science Capstone
+- [x] Machine Learning with Python (completed 2.-8.7., 2.-3.8.2022)
+- [ ] Applied Data Science Capstone (started 4.8.2022)
 ###
 
 ## Other IBM courses
