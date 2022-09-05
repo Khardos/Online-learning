@@ -18,8 +18,8 @@ https://www.coursera.org/professional-certificates/ibm-data-science
 
 ##Udemy.com
 - [x] AZ-900 Azure Fundamentals, only certification content without certification (8/2022)
-- [] Power BI Essentials (ongoing, started 8/2022)
-- [] DP-900 Azure Data Fundamentals (ongoing, started 9/2022)
+- [ ] Power BI Essentials (ongoing, started 8/2022)
+- [ ] DP-900 Azure Data Fundamentals (ongoing, started 9/2022)
 
 
 ## Other possible courses (Coursera): 
