@@ -16,20 +16,11 @@ https://www.coursera.org/professional-certificates/ibm-data-science
 - [x] Applied Data Science Capstone (completed 4.-9.8.2022)
 ###
 
-## Other IBM courses
-- Statistics for Data Science with Python (will probably do this or another similar course)
+##Udemy.com
+- [x] AZ-900 Azure Fundamentals, only certification content without certification (8/2022)
+- [] Power BI Essentials (ongoing, started 8/2022)
+- [] DP-900 Azure Data Fundamentals (ongoing, started 9/2022)
 
-## IBM Data Analytics specialization 
-https://www.coursera.org/professional-certificates/ibm-data-analyst \
-Only listing here courses that don't overlap with Data science specialization (might or might not do these)
-- Introduction to Data Analytics
-- Excel Basics for Data Analysis
-- Data Visualization and Dashboards with Excel and Cognos
-- IBM Data Analyst Capstone Project
-
-## Google Data Analytics Specialization
-https://www.coursera.org/professional-certificates/google-data-analytics
-- 8 courses for potentially more thorough data mindset and learning more about spreadsheets, R, etc.
 
 ## Other possible courses (Coursera): 
 - Statistics with Python (U Michigan) 
