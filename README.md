@@ -16,10 +16,10 @@ https://www.coursera.org/professional-certificates/ibm-data-science
 - [x] Applied Data Science Capstone (completed 4.-9.8.2022)
 ###
 
-## Udemy.com (8/2022 -)
-- [x] AZ-900 Azure Fundamentals, only certification content without certification (8/2022)
+## (8/2022 -) Udemy.com 
+- [x] AZ-900 Azure Fundamentals. Learned content no certificate (8/2022)
+- [x] DP-900 Azure Data Fundamentals. Learned content, no certificate (9/2022)
 - [ ] Power BI Essentials (ongoing, started 8/2022)
-- [ ] DP-900 Azure Data Fundamentals (ongoing, started 9/2022)
 
 
 ## Other possible courses (Coursera): 
@@ -33,4 +33,4 @@ https://www.coursera.org/professional-certificates/ibm-data-science
 ## Other topics to learn/relearn about more separately
 Git, DevOps, Bash (/ command line), Regex \
 AWS, Azure, Google Cloud \
-Power BI, Tableau, Advanced Excel handling
+Power BI, Tableau, Advanced Excel
