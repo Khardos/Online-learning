@@ -19,18 +19,27 @@ https://www.coursera.org/professional-certificates/ibm-data-science
 ## (8/2022 -) Udemy.com 
 - [x] AZ-900 Azure Fundamentals. Learned content, no certificate (8/2022)
 - [x] DP-900 Azure Data Fundamentals. Learned content, no certificate (9/2022)
-- [ ] Power BI Essentials (ongoing, started 8/2022)
+- [x] Power BI Essentials (8-9/2022)
+- [ ] Snowflake – The Complete Masterclass (started 9/2022)
+- [ ] DP-203: Data Engineering on Microsoft Azure
+- [ ] The Complete SQL Bootcamp 2022: Go from Zero to Hero
+- [ ] PL-300 certification: Microsoft Power BI Data Analyst
+- [ ] AWS Certified Cloud Practitioner
+- [ ] AWS Certified Solutions Architect Associate
+- [ ] Complete Linux Training Course
+- [ ] PL-900: Microsoft Power Platform Fundamentals
+- [ ] Scrum for Beginners + Scrum Master Certification
 
 
 ## Other possible courses (Coursera): 
 - Statistics with Python (U Michigan) 
-- Statistics (Stanford)
 - Machine Learning (DeepLearning.ai & Stanford)
 - Deep Learning (DeepLearning.ai) 
 - Harvard CS50?
 - ...
 
-## Other topics to learn/relearn about more separately
-Git, DevOps, Bash (/ command line), Regex \
-AWS, Azure, Google Cloud \
-Power BI, Tableau, Advanced Excel
+## Other potential topics to learn more or relearn
+Tableau, QlikSense, Advanced Excel \
+Git, DevOps \
+Google Cloud \
+Regex
