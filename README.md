@@ -41,7 +41,7 @@ https://www.coursera.org/professional-certificates/ibm-data-science
 - ...
 
 ## Other potential topics to learn more or relearn
-Tableau, QlikSense, Advanced Excel \
+Advanced Excel \
 Git, DevOps \
 Google Cloud \
 Regex
