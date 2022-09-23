@@ -22,6 +22,8 @@ https://www.coursera.org/professional-certificates/ibm-data-science
 - [x] Power BI Essentials (8-9/2022)
 - [ ] Snowflake – The Complete Masterclass (started 9/2022)
 - [ ] DP-203: Data Engineering on Microsoft Azure
+- [ ] Qlik Sense Certification - The Complete Practical Course
+- [ ] Tableau Data Analyst/Specialist Desktop Certification
 - [ ] The Complete SQL Bootcamp 2022: Go from Zero to Hero
 - [ ] PL-300 certification: Microsoft Power BI Data Analyst
 - [ ] AWS Certified Cloud Practitioner
