@@ -21,7 +21,7 @@ https://www.coursera.org/professional-certificates/ibm-data-science
 - [x] DP-900 Azure Data Fundamentals. Learned content, no certificate (9/2022)
 - [x] Power BI Essentials (8-9/2022)
 - [ ] Snowflake – The Complete Masterclass (started 9/2022)
-- [ ] DP-203: Data Engineering on Microsoft Azure
+- [ ] DP-203: Data Engineering on Microsoft Azure (started 10/2022)
 - [ ] Qlik Sense Certification - The Complete Practical Course
 - [ ] Tableau Data Analyst/Specialist Desktop Certification
 - [ ] The Complete SQL Bootcamp 2022: Go from Zero to Hero
