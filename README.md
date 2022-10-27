@@ -1,5 +1,5 @@
 # My online learning progress
-My learning progress since starting learning data science on 29.5.2022.<br>
+My learning progress since starting learning data science, analytics and engineering on 29.5.2022.<br>
 Some example projects can be seen at https://github.com/Khardos/Portfolio <br>
 Linkedin: https://www.linkedin.com/in/samulikoivu/
 ## (29.5.-9.8.2022) IBM Data Science specialization in Coursera
@@ -20,7 +20,7 @@ https://www.coursera.org/professional-certificates/ibm-data-science
 - [x] AZ-900 Azure Fundamentals. Learned content, no certificate (8/2022)
 - [x] DP-900 Azure Data Fundamentals. Learned content, no certificate (9/2022)
 - [x] Power BI Essentials (8-9/2022)
-- [ ] Snowflake – The Complete Masterclass (started 9/2022)
+- [x] Snowflake – The Complete Masterclass (9-10/2022)
 - [ ] DP-203: Data Engineering on Microsoft Azure (started 10/2022)
 - [ ] Qlik Sense Certification - The Complete Practical Course
 - [ ] Tableau Data Analyst/Specialist Desktop Certification
